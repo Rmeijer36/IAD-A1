@@ -1,0 +1,10 @@
+#
+# FINAL BINARY Target
+./bin/nonThreadedApp : ./obj/nonThreadedApp.o
+	cc ./obj/nonThreadedApp.o -o ./bin/nonThreadedApp
+#
+# =======================================================
+#                     Dependencies
+# =======================================================                     
+./obj/nonThreadedApp.o : ./src/nonThreadedApp.c
+	cc -c ./src/nonThreadedApp.c -o ./obj/nonThreadedApp.o

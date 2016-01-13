@@ -1,0 +1,28 @@
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe.config
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.pdb
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.Form1.resources
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.Properties.Resources.resources
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.exe
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.pdb
+C:\Users\Richard\Desktop\WAMP_A6_Server\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe.config
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.pdb
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.MainForm.resources
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.Properties.Resources.resources
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.exe
+C:\Users\Richard\Desktop\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.pdb
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe.config
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.exe
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.pdb
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.pdb
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.MainForm.resources
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.Properties.Resources.resources
+C:\Users\Richard\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.csproj.GenerateResource.Cache
+E:\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\bin\Debug\WAMP_A6_Server.exe.config
+E:\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.exe
+E:\Documents\Software Engineering Technology\Y3-S1\Windows and Mobile Programming\Assignments\WAMP_A6\WAMP_A6_Server\obj\Debug\WAMP_A6_Server.pdb
